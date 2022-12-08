@@ -4,5 +4,5 @@ Simple python script to search a text pattern in text files.
 ## Usage
 
 ```bash
-grepy "PATTERN" <file_path>
+python3 grepy.py "PATTERN" <file_path>
 ```
